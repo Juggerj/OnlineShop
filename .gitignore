@@ -1,11 +1,14 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
 /.idea/
 /OnlineShop/settings_local.*
 /OnlineShop/settings.*
 *.pyc
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
 
 # C extensions
 *.so
